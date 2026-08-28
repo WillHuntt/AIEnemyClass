@@ -1,0 +1,51 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Willh/OneDrive/Documents/Unreal Projects/BatteryCollectorLect/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Willh/OneDrive/Documents/Unreal Projects/BatteryCollectorLect/Content/ThirdPerson/Blueprints/BP_HeatlhPickup.uasset",
+				"C:/Users/Willh/OneDrive/Documents/Unreal Projects/BatteryCollectorLect/Content/ThirdPerson/Blueprints/WBP_HealthHUD.uasset",
+				"C:/Users/Willh/OneDrive/Documents/Unreal Projects/BatteryCollectorLect/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/HY/Q7CPP7VHOXBAMAJI90W626.uasset",
+				"C:/Users/Willh/OneDrive/Documents/Unreal Projects/BatteryCollectorLect/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/XI/2VDLW0K5DO34XEBW8A5693.uasset",
+				"C:/Users/Willh/OneDrive/Documents/Unreal Projects/BatteryCollectorLect/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/SQ/PGLH6J4L33Q9IJE4PU0JJW.uasset",
+				"C:/Users/Willh/OneDrive/Documents/Unreal Projects/BatteryCollectorLect/Content/ThirdPerson/Blueprints/BP_EnemyCharacter.uasset",
+				"C:/Users/Willh/OneDrive/Documents/Unreal Projects/BatteryCollectorLect/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/7B/Q52G5IONASXAFSX90KUTP6.uasset",
+				"C:/Users/Willh/OneDrive/Documents/Unreal Projects/BatteryCollectorLect/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/6G/38HJPB0UMWM2QXSWB282J1.uasset",
+				"C:/Users/Willh/OneDrive/Documents/Unreal Projects/BatteryCollectorLect/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/LH/6E0IJ5QDOVRAHTN7SK02KF.uasset",
+				"C:/Users/Willh/OneDrive/Documents/Unreal Projects/BatteryCollectorLect/Content/Characters/Mannequins/Anims/Unarmed/Attack/AM_PlayerAttack.uasset",
+				"C:/Users/Willh/OneDrive/Documents/Unreal Projects/BatteryCollectorLect/Content/ThirdPerson/Blueprints/bp.uasset",
+				"C:/Users/Willh/OneDrive/Documents/Unreal Projects/BatteryCollectorLect/Content/ThirdPerson/Blueprints/WBP_Crosshair.uasset",
+				"C:/Users/Willh/OneDrive/Documents/Unreal Projects/BatteryCollectorLect/Content/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed.uasset",
+				"C:/Users/Willh/OneDrive/Documents/Unreal Projects/BatteryCollectorLect/Content/ThirdPerson/Blueprints/WBP_HUD.uasset",
+				"C:/Users/Willh/OneDrive/Documents/Unreal Projects/BatteryCollectorLect/Content/LevelPrototyping/Audio/Pickup.uasset",
+				"C:/Users/Willh/OneDrive/Documents/Unreal Projects/BatteryCollectorLect/Content/LevelPrototyping/Audio/Fir.uasset",
+				"C:/Users/Willh/OneDrive/Documents/Unreal Projects/BatteryCollectorLect/Content/LevelPrototyping/Audio/Fire.uasset",
+				"C:/Users/Willh/OneDrive/Documents/Unreal Projects/BatteryCollectorLect/Content/LevelPrototyping/Audio/Reload.uasset",
+				"C:/Users/Willh/OneDrive/Documents/Unreal Projects/BatteryCollectorLect/Content/LevelPrototyping/Audio/EmptyMag.uasset",
+				"C:/Users/Willh/OneDrive/Documents/Unreal Projects/BatteryCollectorLect/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/MV/2U2IE6JXO1320Q32RJQKSE.uasset",
+				"C:/Users/Willh/OneDrive/Documents/Unreal Projects/BatteryCollectorLect/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/CQ/I205QOSSXONYWBP69RVMVA.uasset",
+				"C:/Users/Willh/OneDrive/Documents/Unreal Projects/BatteryCollectorLect/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/G9/77SUGCMHUBU5E7FP1DLCVD.uasset",
+				"C:/Users/Willh/OneDrive/Documents/Unreal Projects/BatteryCollectorLect/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/WI/FHUVUALB8C8XRJ0PY9XXTI.uasset",
+				"C:/Users/Willh/OneDrive/Documents/Unreal Projects/BatteryCollectorLect/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/XH/SKCKQTQDTE8ZNW6C0FCBRO.uasset",
+				"C:/Users/Willh/OneDrive/Documents/Unreal Projects/BatteryCollectorLect/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/3J/Q8CQM512VVS7UZZW0KQRSV.uasset",
+				"C:/Users/Willh/OneDrive/Documents/Unreal Projects/BatteryCollectorLect/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/P0/D7ID38FX2QNBRCRNNI7POC.uasset",
+				"C:/Users/Willh/OneDrive/Documents/Unreal Projects/BatteryCollectorLect/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/LI/W4I81MV65JINGWIII8K6SF.uasset",
+				"C:/Users/Willh/OneDrive/Documents/Unreal Projects/BatteryCollectorLect/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/7J/JK4RXL720NZ7B33VGCQ3R6.uasset",
+				"C:/Users/Willh/OneDrive/Documents/Unreal Projects/BatteryCollectorLect/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/HI/UZ0RWHKBR3IZADWEBPMMD6.uasset",
+				"C:/Users/Willh/OneDrive/Documents/Unreal Projects/BatteryCollectorLect/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/ME/QBTTOMPPW766VJHLO8PT4W.uasset",
+				"C:/Users/Willh/OneDrive/Documents/Unreal Projects/BatteryCollectorLect/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/A0/KNRJF7SOSS0AXSJXXMCSQH.uasset",
+				"C:/Users/Willh/OneDrive/Documents/Unreal Projects/BatteryCollectorLect/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/3Y/OIP4IN8QA3MJD82RTC2AAP.uasset",
+				"C:/Users/Willh/OneDrive/Documents/Unreal Projects/BatteryCollectorLect/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/9V/RPMRW3G5EZ417C01XWQ7BW.uasset",
+				"C:/Users/Willh/OneDrive/Documents/Unreal Projects/BatteryCollectorLect/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/2S/Y6MHBE3DX8JD7AAOLSOIE6.uasset",
+				"C:/Users/Willh/OneDrive/Documents/Unreal Projects/BatteryCollectorLect/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/IM/3APL3M7VH86HCXUBYJGQCC.uasset",
+				"C:/Users/Willh/OneDrive/Documents/Unreal Projects/BatteryCollectorLect/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/5A/KMGYMEC4OVOAQ6S9WIL4SA.uasset",
+				"C:/Users/Willh/OneDrive/Documents/Unreal Projects/BatteryCollectorLect/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/EC/TBE0NPGR7ZWX8ZBWN2RUC8.uasset",
+				"C:/Users/Willh/OneDrive/Documents/Unreal Projects/BatteryCollectorLect/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/07/HUPRUK8Z72X1PGZDNWPI4F.uasset",
+				"C:/Users/Willh/OneDrive/Documents/Unreal Projects/BatteryCollectorLect/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/26/9OP0QEFDBHOCEDCBUFRZS9.uasset"
+			]
+		}
+	]
+}
